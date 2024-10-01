@@ -1,0 +1,10 @@
+[
+    {
+        "id": "string",
+        "player1Id": "string",
+        "player2Id": "string",
+        "moves": [],
+        "status": "gameStatus",
+        "winner": "Draw"    
+    }
+]
